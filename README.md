@@ -82,7 +82,7 @@ Please review individual repository guidelines before submitting issues, suggest
 
 - Website: https://vyrixsystems.dev
 - Licensing: https://licenses.vyrixsystems.dev
-- GitHub: https://github.com/
+- GitHub: https://github.com/VyrixSystems
 
 ---
 
